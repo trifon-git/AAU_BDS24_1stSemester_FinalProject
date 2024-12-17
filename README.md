@@ -12,8 +12,7 @@ This repository contains all the code and resources developed for the First Seme
 ---
 
 ## **[STEP1_MidStep1] - Merging Listings with HTML Links**
-- This notebook **merges job listing files** generated in STEP 1.  
-- It consolidates data from multiple files into a single output directory for easier downstream processing.
+- This notebook **merges job listing files** generated in previous versions of the code.  
 
 ---
 
