@@ -1,5 +1,4 @@
-# Project Title AI and the Danish Job Market: Looking Into Emerging Skills and
-Evolving Workforce Demands in the Era of Automation
+# Project Title AI and the Danish Job Market: Looking Into Emerging Skills and Evolving Workforce Demands in the Era of Automation
 
 This repository contains all the code and resources developed for the First Semester Final Project in Business Data Science (Class 2024) at Aalborg University.
 
@@ -52,6 +51,12 @@ This repository contains all the code and resources developed for the First Seme
 
 **Some processes required adjustments partway through the project. To address this, we created mid-steps that were executed only once to implement the necessary changes and ensure the pipeline continued smoothly.**
 
+---
+
+## **[STEP 6.1] - Add Extra Variables to the Processed Data**
+- Using APIs to add latitude,  longitude aswell as population numbers which will be useful for our application
+
+---
 
 ## Authors
 - **Anders Bjerring**  
