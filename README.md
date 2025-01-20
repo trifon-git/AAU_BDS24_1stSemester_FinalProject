@@ -46,12 +46,6 @@ This repository contains all the code and resources developed for the First Seme
 
 ---
 
-## **[STEP 5.2] - Sampling Data for LLM Processing**
-- The script **samples a subset of the data** before processing it with the **Large Language Model (LLM)**.  
-- Sampling ensures the LLM operates efficiently and produces targeted results.
-
----
-
 ## **[STEP 5.3] - LLM Processing**
 - This step uses a **Large Language Model (LLM)** (Ollama 3.1:8b) to process the sampled data.  
 - The LLM performs advanced text analysis and extraction based on the created System prompt.
