@@ -46,7 +46,7 @@ This repository contains all the code and resources developed for the First Seme
 
 ---
 
-## **[STEP 5.3] - LLM Processing**
+## **[STEP 5.2] - LLM Processing**
 - This step uses a **Large Language Model (LLM)** (Ollama 3.1:8b) to process the sampled data.  
 - The LLM performs advanced text analysis and extraction based on the created System prompt.
 
