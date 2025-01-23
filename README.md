@@ -2,6 +2,11 @@
 
 This repository contains all the code and resources developed for the First Semester Final Project in Business Data Science (Class 2024) at Aalborg University.
 
+## Interactive Data Exploration Tool
+
+This is an app we created using our data, hosted on Hugging Face Spaces. It’s a simple, interactive tool that lets you explore the results of our project. The app is easy to use and shows how we processed and worked with the data to build something useful. URL: https://huggingface.co/spaces/Lpiziks2/app_project
+
+
 # Project Overview: Job Listings Analysis Pipeline
 
 ## **[STEP 1] - Scraping Job Listings**
